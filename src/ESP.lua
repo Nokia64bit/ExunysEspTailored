@@ -263,7 +263,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Tracer = {
-			Enabled = true,
+			Enabled = false,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 			Position = 1, -- 1 = Bottom; 2 = Center; 3 = Mouse
@@ -292,7 +292,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Box = {
-			Enabled = true,
+			Enabled = false,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 
