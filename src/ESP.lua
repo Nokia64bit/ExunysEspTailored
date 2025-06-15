@@ -255,11 +255,11 @@ getgenv().ExunysDeveloperESP = {
 			OutlineColor = Color3fromRGB(0, 0, 0),
 			Outline = true,
 
-			DisplayDistance = true,
+			DisplayDistance = false,
 			DisplayHealth = false,
 			DisplayName = false,
-			DisplayDisplayName = true,
-			DisplayTool = true
+			DisplayDisplayName = false,
+			DisplayTool = false
 		},
 
 		Tracer = {
@@ -320,7 +320,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Chams = {
-			Enabled = false,
+			Enabled = true,
 			RainbowColor = false,
 
 			Color = Color3fromRGB(255, 255, 255),
