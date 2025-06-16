@@ -233,7 +233,7 @@ getgenv().ExunysDeveloperESP = {
 	Settings = {
 		Enabled = true,
 		PartsOnly = false,
-		TeamCheck = true,
+		TeamCheck = false,
 		AliveCheck = true,
 		LoadConfigOnLaunch = true,
 		EnableTeamColors = false,
@@ -257,7 +257,7 @@ getgenv().ExunysDeveloperESP = {
 
 			DisplayDistance = false,
 			DisplayHealth = false,
-			DisplayName = false,
+			DisplayName = true,
 			DisplayDisplayName = false,
 			DisplayTool = false
 		},
