@@ -236,7 +236,7 @@ getgenv().ExunysDeveloperESP = {
 		TeamCheck = true,
 		AliveCheck = true,
 		LoadConfigOnLaunch = true,
-		EnableTeamColors = false,
+		EnableTeamColors = true,
 		TeamColor = Color3fromRGB(170, 170, 255)
 	},
 
@@ -257,7 +257,7 @@ getgenv().ExunysDeveloperESP = {
 
 			DisplayDistance = false,
 			DisplayHealth = false,
-			DisplayName = false,
+			DisplayName = true,
 			DisplayDisplayName = false,
 			DisplayTool = false
 		},
