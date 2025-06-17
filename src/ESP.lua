@@ -255,7 +255,7 @@ getgenv().ExunysDeveloperESP = {
 			OutlineColor = Color3fromRGB(0, 0, 0),
 			Outline = true,
 
-			DisplayDistance = false,
+			DisplayDistance = true,
 			DisplayHealth = false,
 			DisplayName = false,
 			DisplayDisplayName = false,
@@ -277,7 +277,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		HeadDot = {
-			Enabled = true,
+			Enabled = false,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 
@@ -292,7 +292,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Box = {
-			Enabled = false,
+			Enabled = true,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 
