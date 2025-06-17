@@ -257,7 +257,7 @@ getgenv().ExunysDeveloperESP = {
 
 			DisplayDistance = false,
 			DisplayHealth = false,
-			DisplayName = true,
+			DisplayName = false,
 			DisplayDisplayName = false,
 			DisplayTool = false
 		},
@@ -292,7 +292,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		Box = {
-			Enabled = true,
+			Enabled = false,
 			RainbowColor = false,
 			RainbowOutlineColor = false,
 
@@ -306,7 +306,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		HealthBar = {
-			Enabled = true,
+			Enabled = false,
 			RainbowOutlineColor = false,
 			Offset = 4,
 			Blue = 100,
