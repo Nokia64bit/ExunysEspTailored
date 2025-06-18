@@ -255,7 +255,7 @@ getgenv().ExunysDeveloperESP = {
 			OutlineColor = Color3fromRGB(0, 0, 0),
 			Outline = true,
 
-			DisplayDistance = true,
+			DisplayDistance = false,
 			DisplayHealth = false,
 			DisplayName = false,
 			DisplayDisplayName = false,
@@ -306,7 +306,7 @@ getgenv().ExunysDeveloperESP = {
 		},
 
 		HealthBar = {
-			Enabled = false,
+			Enabled = true,
 			RainbowOutlineColor = false,
 			Offset = 4,
 			Blue = 100,
