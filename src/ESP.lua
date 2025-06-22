@@ -259,7 +259,7 @@ getgenv().ExunysDeveloperESP = {
 			DisplayHealth = false,
 			DisplayName = false,
 			DisplayDisplayName = false,
-			DisplayTool = false
+			DisplayTool = true
 		},
 
 		Tracer = {
